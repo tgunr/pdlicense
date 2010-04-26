@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application</key>
+	<string>PickADisk</string>
+	<key>Date</key>
+	<string>2009-05-28</string>
+	<key>Email</key>
+	<string>ddasal@convoyofhope.org</string>
+	<key>Name</key>
+	<string>Dustin Dasal
+Dustin Dasal
+Dustin Dasal</string>
+	<key>Order</key>
+	<string>116</string>
+	<key>Signature</key>
+	<data>
+	nvrUdBtayCfMafDEMgLTzjIWOzRugSLbKKFoaNR32GXoJ2W1gCTQs/NgNmS3i3CTWUV7
+	eyPGZXIRezU+y++UpDCKojBI8rV5m0xA+kLiqrtMmMA2XjizGTk8V8+W6CVtXeZaKQSj
+	70sT5aP9JQAibv7+br/wHPEctQojyp81ovg=
+	</data>
+	<key>TransactionID</key>
+	<string>5SA163361L627825J</string>
+	<key>Verison</key>
+	<string>1.0</string>
+</dict>
+</plist>

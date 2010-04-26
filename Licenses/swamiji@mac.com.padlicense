@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application</key>
+	<string>PickADisk</string>
+	<key>Date</key>
+	<string>2010-01-07</string>
+	<key>Email</key>
+	<string>swamiji@mac.com</string>
+	<key>Name</key>
+	<string>Jeffrey Soden</string>
+	<key>OrderID</key>
+	<string>10010401</string>
+	<key>Signature</key>
+	<data>
+	A54XYJ6iAS7gp0/72JLEK2XnjWJZ6t/G9xNlQHV8KGbTyN4OLw6xTtDa0sgsRFqSungc
+	dE9Bzqobo8n1yIYqUyMEDZ89+gK6ngZYFQ9P5Fy/88e1BUTTHh+1YIir23vSFmFRk3wN
+	Tcfp9bccrPtibY3PPOrdRuZ3TXLTnuykWuM=
+	</data>
+	<key>TransactionID</key>
+	<string>8L695620FR271545H</string>
+	<key>Verison</key>
+	<string>1.0</string>
+</dict>
+</plist>

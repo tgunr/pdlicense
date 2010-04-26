@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application</key>
+	<string>PickADisk</string>
+	<key>Date</key>
+	<string>2009-08-29</string>
+	<key>Email</key>
+	<string>Dominik.eng@befast.ch</string>
+	<key>Name</key>
+	<string>Dominik Eng</string>
+	<key>Order</key>
+	<string>Bad</string>
+	<key>Signature</key>
+	<data>d/UR/E1F/EXgKgmu3UHAAJJ6ZB9gdEJm4J4d3jDkYGI521z5ZkchWdWUvIEyGEP5V3eBpYuzhav9+0F1bZ24+/csNgGugti2fkslGMeFSqkehjkctQuTj8cPEMYn6g6bdkqyxkR+ZK63j6DJlpI6RrbsI91YeeCueygk5sEf3cg=</data>
+	<key>TransactionID</key>
+	<string>005467301U522073A</string>
+	<key>Verison</key>
+	<string>1.0</string>
+</dict>
+</plist>

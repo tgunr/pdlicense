@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application</key>
+	<string>PickADisk</string>
+	<key>Date</key>
+	<string>2009-11-29</string>
+	<key>Email</key>
+	<string>mbeemer@syrentha.org</string>
+	<key>Name</key>
+	<string>The Syrentha Savio Endowment</string>
+	<key>OrderID</key>
+	<string>09112902</string>
+	<key>Signature</key>
+	<data>
+	ShipAyqZsm2LfvWXytbtZaQuVccomdtMJH7Aw5d8RmEze6OQrE/dwA4gYOIN8ACeXErS
+	fen4571IX7Q/kRDuo/r1zPiWe1cxmAlJUsiaegCMfnhTjdKIcK54kbUfRgBAVDzK+eJ2
+	5MUap9oJBQGkAqvhFjoYaBVO0QgxZoY/how=
+	</data>
+	<key>TransactionID</key>
+	<string>3JB2875875825724S</string>
+	<key>Verison</key>
+	<string>1.0</string>
+</dict>
+</plist>

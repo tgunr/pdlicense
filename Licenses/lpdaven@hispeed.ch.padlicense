@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application</key>
+	<string>PickADisk</string>
+	<key>Date</key>
+	<string>2010-03-30</string>
+	<key>Email</key>
+	<string>lpdaven@hispeed.ch</string>
+	<key>Name</key>
+	<string>LOUIS-PHILIPPE Daven</string>
+	<key>OrderID</key>
+	<string>10010401</string>
+	<key>Signature</key>
+	<data>
+	GeTWPObqYVMih6mvzV2RUulwEYpW55kR0lQ5JbC5fxpDbEkgB22Ff9QV/XytNqOaM/zb
+	QHlVhU3KC6BN47zVAdXvKfoMpGetsYLpdz988FlsfZGFnu6VNlODPk3EA3h3kEEQt6UK
+	138UecWoR33X6PLOJtSsdViW09jT9hCIG6k=
+	</data>
+	<key>TransactionID</key>
+	<string>2KC81509771073413</string>
+	<key>Verison</key>
+	<string>1.0</string>
+</dict>
+</plist>

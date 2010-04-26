@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<string>2008-12-29</string>
+	<key>Email</key>
+	<string>fanatikproductions@videotron.ca</string>
+	<key>Name</key>
+	<string>Mathieu Beauchamp</string>
+	<key>Order</key>
+	<string>000002</string>
+	<key>Signature</key>
+	<data>
+	l8iKnXRNWFrI61C0RxySOQgcYedtwt/7PxxqzZQZq470YvyIcgQG2Qye+vCCGgIJpApL
+	rkxY54GW19K/GVYJy0/KuNLYumeSJk+sAeOr+236rf1eOBU+GKV8jMYuf7C4lqrJEKHM
+	K5M7hX0yl90fk3fKPbq9+1iYQvDLuIky0jc=
+	</data>
+	<key>TransactionID</key>
+	<string>31F10496TK8372804</string>
+</dict>
+</plist>

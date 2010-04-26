@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<string>2009-04-09</string>
+	<key>Email</key>
+	<string>S.Tokunaga@efilliate.com</string>
+	<key>Evaluation License</key>
+	<string>1</string>
+	<key>Name</key>
+	<string>Sandy Tokunaga</string>
+	<key>Order</key>
+	<string>9991</string>
+	<key>Signature</key>
+	<data>
+	R2HHc/naJFRfdLCSA13W+zI2qAhXSJp/u+Y+HjOF8fAggqMlYIcz2Bpxm2+6eKrXrQwx
+	4p8zVZlR7UUbkYAMtUe0eaeX5JvXdTYFkEj2ujYAHD38zWYie8Et7LeKCdCAVqea3kGw
+	KXzn/2vrmuhyGpJmYyB5uqDpyhBgePQrbp0=
+	</data>
+	<key>TransactionID</key>
+	<string>0</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application</key>
+	<string>PickADisk</string>
+	<key>Date</key>
+	<string>2010-04-12</string>
+	<key>Email</key>
+	<string>hreeder@hennepintech.edu</string>
+	<key>Name</key>
+	<string>Richard Oxley</string>
+	<key>OrderID</key>
+	<string>10033001</string>
+	<key>Signature</key>
+	<data>
+	MJpXCRTiCny3bDB8MIPZa/rexEOAt8AWP6wVRDXmuDpVngAs2Shffbf25JV+cdMwpOe2
+	sZPeY3yV5NRpaidOI+uU+unRL1+qJKvuslPKEo9r/Ug158OmHeO0U/z03wcQDftaatwR
+	Mmydm1rFSRXnwukPpX36arXGNKd4D38RkPw=
+	</data>
+	<key>TransactionID</key>
+	<string>4NV82135DH4230313</string>
+	<key>Verison</key>
+	<string>1.0</string>
+</dict>
+</plist>

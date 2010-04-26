@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<string>2009-02-06</string>
+	<key>Email</key>
+	<string>Michael.Honnen@t-online.de</string>
+	<key>Name</key>
+	<string>Michael Honnen</string>
+	<key>Order</key>
+	<string>1004</string>
+	<key>Signature</key>
+	<data>
+	L6gzgOmeknn+vEltr9maKlDrwJegA3IJQw/LG3Ayzf9woawBqWaw4kvDOjgoT3alLnj8
+	2iv53sl2yEiGYOHaodghWRmlANWnFPQEpIIOZk91WUPRGx0ZeoXw5daFy9W8QwWLzPD2
+	bG+z+Ba/hULUDzO1PZLoEvCRjLtaoHyc3RY=
+	</data>
+	<key>TransactionID</key>
+	<string>77M15802U8074021N</string>
+</dict>
+</plist>

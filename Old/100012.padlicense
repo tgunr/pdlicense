@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<string>2009-04-21</string>
+	<key>Email</key>
+	<string>drbryansmith@yahoo.com</string>
+	<key>Evaluation License</key>
+	<string>0</string>
+	<key>Name</key>
+	<string>Bryan Smith</string>
+	<key>Order</key>
+	<string>100012</string>
+	<key>Signature</key>
+	<data>
+	nSMkU8dz+pKy/cUTtdTYYxPIyEcH0tCYhVdpwWulHFqQN55kb1zcMCbIDkgy/HNO4cm3
+	df7y6+Cpc85ZzkG2RMOBYnJlWWvK6L/dU4PIOxnXN0+TiG+UAZqlrm6PEL6gkXVaLQ8A
+	jDB2povKX+q3xOYIkuCbqdehC0nnj4j/gGk=
+	</data>
+	<key>TransactionID</key>
+	<string>9MM73333BR8331455</string>
+</dict>
+</plist>

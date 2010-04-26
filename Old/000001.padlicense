@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<string>2008-12-15</string>
+	<key>Email</key>
+	<string>gvlmail-mac001@yahoo.com.au</string>
+	<key>Name</key>
+	<string>Gabe Levy</string>
+	<key>Order</key>
+	<string>000001</string>
+	<key>Signature</key>
+	<data>
+	e0m4Nf42JLLZEukMnK3BKUsumtEsOeEEbk4N5TH8Fjz9zICk0de6tbuAmPgMRZKoQ3M+
+	Rv0NxyB0h3u6+jnswnUnKqgbKm4F2cavpr4G31hszQ+2ED2sCEYBY8om51HbZ2nbb4OA
+	f2xRHWKmewdNrvgrlgSHxDDmtkjHhYMSjd8=
+	</data>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

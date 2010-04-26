@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<string>2009-03-06</string>
+	<key>Email</key>
+	<string>alanchang@mac.com</string>
+	<key>Name</key>
+	<string>Chang Alan</string>
+	<key>Order</key>
+	<string>100004</string>
+	<key>Signature</key>
+	<data>
+	AZNRRv+z4F79oAODXRrqac7Lh+u3MkmGkhUAVFec6Y0jFFKTpxKm4XMHeBI+pUBtrShL
+	K7ShzN3isY8kkzm6HHgigDV2YFV/VHBRTgo0Cf5UTiEY+9AHD3q7V1/feEJddnTcahSN
+	g8wkiL3/FojRF7tt2joUBhiuVv1Bb61lEO0=
+	</data>
+	<key>TransactionID</key>
+	<string>77M15802U8074021N</string>
+</dict>
+</plist>

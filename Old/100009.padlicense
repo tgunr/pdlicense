@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<string>2009-04-05</string>
+	<key>Email</key>
+	<string>sven.s@t-online.de</string>
+	<key>Name</key>
+	<string>Sven Schenkel</string>
+	<key>Order</key>
+	<string>100009</string>
+	<key>Signature</key>
+	<data>
+	IEH5X7ihTN3I7nPUkum408W07qakQl6s183UKmk3F0AYkcwebkKxSRe3MkxXabbx5Tgl
+	5h7Hu03UfGjYZHnsw3LKDtFYz6kdSf/UcET82f60lS6pYZfxPC/Jeak7IDxQXD+PkJHq
+	GF4jQ+lWr0Ejlz23ANWo4LBYX6mpAJUQGA0=
+	</data>
+	<key>TransactionID</key>
+	<string>Sven Schenkel</string>
+</dict>
+</plist>
