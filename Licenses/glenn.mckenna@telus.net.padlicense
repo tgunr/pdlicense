@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application</key>
+	<string>PickADisk</string>
+	<key>Date</key>
+	<string>2010-05-23</string>
+	<key>Email</key>
+	<string>glenn.mckenna@telus.net</string>
+	<key>Name</key>
+	<string>Glenn McKenna</string>
+	<key>OrderID</key>
+	<string>2010052301</string>
+	<key>Signature</key>
+	<data>
+	k7k9BIrcJUhfmHYKSQXb7hKLaNRbIpk2q7Dcb/o96N5D10CY9cAZp+MqoAVoqOFwYlxQ
+	7FnwSDaWPbzTGxX3hPPq+XPRlxfU9AYhxE1T+c61vNhevyhfeUkdvDSBukHPtKriP3xz
+	KA0hoyY0VtZ0FxS01JVUTbq3EEcTm4IV+mM=
+	</data>
+	<key>TransactionID</key>
+	<string>8AE45091RJ823412M</string>
+	<key>Verison</key>
+	<string>1.0</string>
+</dict>
+</plist>
