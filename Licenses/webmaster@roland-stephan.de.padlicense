@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application</key>
+	<string>PickADisk</string>
+	<key>Date</key>
+	<string>2010-10-05</string>
+	<key>Email</key>
+	<string>webmaster@roland-stephan.de</string>
+	<key>Name</key>
+	<string>Roland Stephan</string>
+	<key>OrderID</key>
+	<string></string>
+	<key>Signature</key>
+	<data>
+	f+rsow9WwLfG+rR+uQ+tpck5lseDdDz/VqFdQLtX3HNmZ0mE/nLecUBOXAit/Xe340FO
+	JoSztpW0HW8Y/AZ2hcSMIDYDGQUYnxDeac0JZqCNWInH8sPdO6blMZOqiqAoaKPO9qPF
+	EV3DhlMw6KTJH7B6P6CtSBVYrxaoEUrYA0I=
+	</data>
+	<key>TransactionID</key>
+	<string>88482480CD7456312
+Guten Tag, Roland Stephan!
+
+Sie haben eine Zahlung über $27,01 USD an PolyMicro Systems (davec@mac.com) gesendet.
+
+Es kann einige Minuten dauern, bis die Transaktion in Ihrem Konto angezeigt wird.
+Händler
+PolyMicro Systems
+davec@mac.com
+Mitteilung an Händler
+Sie haben keine Mitteilung eingegeben.
+Lieferadresse
+Roland Stephan
+Messeler Str. 67
+D-64291 Darmstadt
+Deutschland
+Versanddetails
+Der Verkäufer hat noch keine Versanddetails angegeben.
+Beschreibung	Stückpreis	Anzahl	Betrag
+PickADisk
+Artikelnr. 900 0001	$24,95 USD	1	$24,95 USD
+Zwischensumme	$24,95 USD
+Steuer (8.250%)	$2,06 USD
+Summe	$27,01 USD
+Zahlung	$27,01 USD
+Zahlung gesendet an davec@mac.com	
+Von Betrag	€20,38 EUR
+Zu Betrag	$27.01 USD
+Wechselkurs: 1 EUR = 1.32531 USD
+Probleme mit Ihrer Zahlung?
+Wenn Sie Ihren Artikel nicht erhalten oder dieser von der Beschreibung abweicht, können Sie das Problem bei PayPal bis zu 45 Tage ab der Zahlung melden. Gehen Sie hierfür in Ihrem PayPal-Konto auf "Konfliktlösungen".
+
+Haben Sie Fragen? Antworten finden Sie im Hilfe-Center unter www.paypal.com/de/help.
+
+Bitte antworten Sie nicht auf diese E-Mail. Dieses Postfach wird nicht überwacht, deshalb werden Sie keine Antwort erhalten. Wenn Sie Hilfe benötigen, loggen Sie sich in Ihr PayPal-Konto ein und klicken Sie oben rechts auf einer der PayPal-Seiten auf den Link Hilfe.
+
+Wenn Sie E-Mail-Benachrichtigungen bevorzugt im Nur-Text-Format anstatt im HTML-Format erhalten möchten, loggen Sie sich in Ihr PayPal-Konto ein, rufen Sie Ihr Profil auf, und klicken Sie auf Benachrichtigungen.
+
+Copyright © 1999-2010 PayPal. Alle Rechte vorbehalten.
+
+PayPal (Europe) S.à r.l. &amp; Cie, S.C.A.
+Société en Commandite par Actions
+Sitz: 22-24 Boulevard Royal, L-2449 Luxemburg
+RCS Luxemburg B 118 349
+
+PayPal E-Mail-ID PP120</string>
+	<key>Verison</key>
+	<string>1.0</string>
+</dict>
+</plist>

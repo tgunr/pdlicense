@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application</key>
+	<string>PickADisk</string>
+	<key>Date</key>
+	<string>2010-10-01</string>
+	<key>Email</key>
+	<string>harald.reinbold@me.com</string>
+	<key>Name</key>
+	<string>Harald Reinbold</string>
+	<key>Signature</key>
+	<data>
+	QWA0OXWGzhgpNWzeglij/2Bp/8+PEsbb/YWUxTRPAC5ZlqU9qW6gRHcfENDRL+xWx2D8
+	4mAu+FpueYTcpfF7CaNed2JmlSLqtsOMZ8QnVSlMX3QyS/tnMJcXQ08zOxlbAbz854wr
+	44RD5decB95MjAri4Q7I0HvRDtDmarl+U4A=
+	</data>
+	<key>TransactionID</key>
+	<string>2LM95399L76241510</string>
+	<key>Verison</key>
+	<string>1.0</string>
+</dict>
+</plist>
