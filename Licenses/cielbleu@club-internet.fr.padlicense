@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application</key>
+	<string>PickADisk</string>
+	<key>Date</key>
+	<string>2010-09-15</string>
+	<key>Email</key>
+	<string>cielbleu@club-internet.fr</string>
+	<key>Name</key>
+	<string>Raphaël Cuvelier</string>
+	<key>OrderID</key>
+	<string>10120</string>
+	<key>Signature</key>
+	<data>
+	j5vdhxsK9AziBlXc9q+734WgkL5thAiu/PslU4z/bvHxhQgJEBt1n56oEgNpN7WwZXWM
+	pu9zV7lnmgOiG74uB1NlymtBPkRXnydQWLqzk1b/nPUAl4jpCw3NjZYL7O0A423yMncn
+	MsD1jy8GIsp+DignyHJhkwVWmhhX8jPy2Wc=
+	</data>
+	<key>TransactionID</key>
+	<string>54K38162GW0913830</string>
+	<key>Verison</key>
+	<string>1.0.4</string>
+</dict>
+</plist>
